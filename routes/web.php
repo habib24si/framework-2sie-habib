@@ -20,3 +20,4 @@ Route::get('/about', function () {
 });
 
 Route::get('/home',[HomeController::class,'index']);
+// ini commit
